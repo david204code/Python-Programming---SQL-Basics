@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1022
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "DBReadPP17", "DBReadPP17\DBReadPP17.pyproj", "{3D5A72D9-A57D-4EED-B74F-A147F4539B7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D5A72D9-A57D-4EED-B74F-A147F4539B7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D5A72D9-A57D-4EED-B74F-A147F4539B7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66E66542-4B41-4CD6-9069-2EE4C108B92B}
+	EndGlobalSection
+EndGlobal

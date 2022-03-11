@@ -1,0 +1,5 @@
+       FirstName,  Surname,  Math,  English,  IT, Biology,  PE
+Alfalfa,  Aloysius,  40.0,  90.0,  100.0,  83.0,  49.0
+    Alfred,  Smith,  41.0,  97.0,  96.0,  97.0,  48.0
+Bob, Smith, 30, 80, 70, 60, 56
+Rob, Jones, 20, 60, 80, 90, 73

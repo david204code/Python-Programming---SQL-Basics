@@ -1,0 +1,38 @@
+GBI5JQ57NSRC
+
+12:30 lunch
+https://tick.qaalabs.com/MAR
+https://tick.qaalabs.com/
+
+Use local machine?
+Visual studio
+SQL express with MS install
+
+casting, changing one data type to another.
+
+.string
+https://www.python.org/dev/peps/pep-0257/
+
+Control Flows
+Sequence 
+
+Lab2
+
+01/03/22
+Lists
+List are stored in memory reference
+
+for loop/for each
+
+names = ["Matthew", "Mark", "Luke"]
+
+for name in names:
+ print(name)
+Read only copy
+name is a copy of the element
+
+Install these
+SQL express 
+SSMS 2017
+
+QA store
